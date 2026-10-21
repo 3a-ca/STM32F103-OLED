@@ -1,0 +1,27 @@
+# 编译输出
+build/
+MDK-ARM/OLED_Demo/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+MDK-ARM/*.lst
+MDK-ARM/build.log
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.htm
+*.dep
+
+# Keil 用户配置
+*.uvguix.*
+*.uvoptx.bak
+
+# 工具临时目录
+tmp/
+sim_out/*.exe
+.dsh-office-*/
+
+# 系统文件
+Thumbs.db
+desktop.ini
