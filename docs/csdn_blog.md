@@ -124,7 +124,7 @@ uint8_t u8x8_byte_hw_i2c(u8x8_t *u8x8, uint8_t msg, uint8_t arg_int, void *arg_p
 ```c
 #define STUDENT_NAME   "覃晖杰"
 #define STUDENT_ID     "632407030323"
-#define STUDENT_CLASS  "电信类2403班"
+#define STUDENT_CLASS  "通信2班"
 ```
 
 3 行 16×16 汉字 + 8×16 数字，正好 128 像素宽。

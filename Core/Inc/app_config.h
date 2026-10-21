@@ -9,7 +9,7 @@
 
 #define STUDENT_NAME   "覃晖杰"          /* 姓名 */
 #define STUDENT_ID     "632407030323"    /* 学号 */
-#define STUDENT_CLASS  "电信类2403班"     /* 专业班级 */
+#define STUDENT_CLASS  "通信2班"          /* 专业班级 */
 
 #define SCREEN_PERIOD_MS   5000U         /* 每个界面停留时间 */
 

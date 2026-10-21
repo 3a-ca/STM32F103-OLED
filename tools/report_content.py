@@ -137,7 +137,7 @@ add(("p", "姓名、学号、班级写在 app_config.h 里，改一行就能换�
 add(("code", [
     '#define STUDENT_NAME   "覃晖杰"',
     '#define STUDENT_ID     "632407030323"',
-    '#define STUDENT_CLASS  "电信类2403班"',
+    '#define STUDENT_CLASS  "通信2班"',
 ]))
 add(("h2", "6.2 滑动显示"))
 add(("p", "水平滑动用“整体平移 + 循环取模”实现：文本宽度 w，偏移量 off = (t/14) % (w+128)，绘制起点 x = 128 - off，越界像素由 DrawPixel 自动裁剪。垂直滑动同理，只是把偏移量作用在 y 上，并且把标题区当成裁剪窗口（先画文字，再用背景色盖掉 y<19 的部分，最后补画标题）。"))
