@@ -25,3 +25,4 @@ sim_out/*.exe
 # 系统文件
 Thumbs.db
 desktop.ini
+.dsh-chk/
